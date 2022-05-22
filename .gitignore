@@ -1,0 +1,13 @@
+**/bin 
+**/obj
+*/.vs
+/.vs
+*.user
+**/.sonar*
+**/*.ruleset
+**/out
+
+# Build results
+[Gg]enerated/
+/.vscode/tasks.json
+/.vscode/launch.json
